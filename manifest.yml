@@ -1,6 +1,6 @@
 ---
 declared-services:
-- re-service:
+  re-service:
     label: relationship_extraction
     plan: relationship_extraction_free_plan
 applications:
