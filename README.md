@@ -2,6 +2,10 @@
 
   The IBM Watson [Relationship Extraction][relationship_extraction] service parses sentences into their various components and detects relationships between the components. It can process new terms (like people's names in a news feed) it has never analyzed before through contextual analysis. Sentence components include parts of speech (noun, verb, adjective, conjunction, etc.) and functions (subjects, objects, predicates, etc.). The service maps the relationships between the components so that users or analytics engines can more easily understand the meaning of individual sentences and documents.
 
+Give it a try! Click the button below to fork into IBM DevOps Services and deploy your own copy of this application on Bluemix.
+
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/watson-developer-cloud/relationship-extraction-ruby.git)
+
 ## Getting Started
 
 1. Create a Bluemix Account
